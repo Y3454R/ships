@@ -2,7 +2,7 @@
 
 ## Overview
 
-`Ships` is a tool that converts webpages into an ASCII-like text representation. The tool supports both static and dynamic webpages. It uses the `html2text` library to convert static HTML pages and Selenium to render and fetch content from JavaScript-rendered pages.
+`Ships` 🛳️ is a tool that converts webpages into an ASCII-like text representation. The tool supports both static and dynamic webpages. It uses the `html2text` library to convert static HTML pages and Selenium to render and fetch content from JavaScript-rendered pages.
 
 ## Features
 
@@ -64,7 +64,7 @@ For websites with JavaScript content, you can fetch the dynamically rendered HTM
 - [Selenium](https://www.selenium.dev/documentation/en/)
 - [Webdriver Manager](https://github.com/SergeyPirogov/webdriver_manager)
 
-## Future Ideas
+<!-- ## Future Ideas
 
 ### Image to ASCII Conversion
 
@@ -73,7 +73,7 @@ In the future, we plan to extend `Ships` to support converting images to ASCII a
 - Generating ASCII-style mockups for design sharing.
 - Converting graphical content to simple, text-based formats.
 
-<!-- ### Additional Features:
+### Additional Features:
 1. **Tag Filtering**: Allow users to extract and convert specific HTML tags (e.g., `<nav>`, `<header>`) into ASCII format.
 2. **Markdown Output**: Provide the option to save the ASCII output in Markdown format, which is widely used for documentation.
 3. **Themes**: Customize ASCII output with simple themes (e.g., box-style layouts for better visual presentation).
