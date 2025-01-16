@@ -1,3 +1,4 @@
 requests
 html2text
 selenium
+webdriver-manager
